@@ -11,7 +11,9 @@ body {
   font-size: 14px;
   color: #000;
 }
-/* xxxx轮播样式[D0001]*/
+/* xxxx轮播样式[D0101]=========================*/
+
+/* 只设置高度[D0102] */
 .m-swiper-wrap.swiper-container {
   width:100%;
   height: 600px;
@@ -60,4 +62,4 @@ body {
   background-size:contain;
   background-position: center;
 }
-/* End */
+/* End========================= */
